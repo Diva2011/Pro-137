@@ -1,0 +1,65 @@
+body
+{
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: black ;
+}
+
+.heading
+{
+    font-size: 40px;
+    width: 100%;
+    margin: 0;
+    color: black;
+    font-weight: bolder;
+}
+
+#inp 
+{
+    font-size: 30px;
+}
+
+.note
+{
+    font-size: 30px;
+}
+
+.status
+{
+    font-size: 35px !important;
+}
+
+button 
+{
+    margin-top: 15px;
+    font-size: 30px !important;
+}
+
+canvas
+{
+    margin-top: 410px;
+    box-shadow: 10px 10px 15px grey;
+    border: 2px solid lavenderblush;
+}
+
+.footer
+{
+    bottom: 0;
+    position: fixed;
+    z-index: 9999;
+    margin-top: 25px;
+    background-color: lavenderblush;
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
+
+h3
+{
+    font-size: 45px !important;
+    font-weight: bold;
+}
